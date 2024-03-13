@@ -51,10 +51,10 @@ export default function Home() {
                 Imagine this: a golden-brown waffle, freshly made, with a crisp
                 exterior and a fluffy, soft interior. Picture it now, drizzled
                 with warm maple syrup cascading down its ridges, accompanied by
-                a dollop of creamy butter melting into every groove. It's not
-                just a waffle; it's a symphony of flavors and textures, a
-                delight for your taste buds. And the best part? It's all yours
-                to enjoy.
+                a dollop of creamy butter melting into every groove. It&apos;s
+                not just a waffle; it&apos;s a symphony of flavors and textures,
+                a delight for your taste buds. And the best part? It&apos;s all
+                yours to enjoy.
               </p>
               <div className="mt-10 flex items-center justify-center gap-x-6">
                 <a
